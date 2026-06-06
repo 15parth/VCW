@@ -148,7 +148,7 @@ export function HomePage() {
 
       <ScrollReveal>
         <section className="gram-section">
-          <SectionHead label="@maisonv — Community" linkLabel="Follow Us" />
+          <SectionHead label="@varnivaa — Community" linkLabel="Follow Us" />
           <div className="gram-grid">
             {gramImages.map((src, index) => (
               <div key={src} className="gram-cell" style={{ transitionDelay: `${index * 50}ms` }}>

@@ -125,7 +125,7 @@ export function MenPage() {
         </div>
       </section>
 
-      <Footer copyright="© 2026 Maison V." social={[{ label: 'Instagram', href: '#' }, { label: 'Pinterest', href: '#' }]} />
+      <Footer copyright="© 2026 Varnivaa." social={[{ label: 'Instagram', href: '#' }, { label: 'Pinterest', href: '#' }]} />
     </PageLayout>
   );
 }

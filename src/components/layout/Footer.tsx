@@ -33,14 +33,14 @@ const DEFAULT_SOCIAL = [
 ];
 
 export function Footer({
-  copyright = '© 2026 Maison V. All rights reserved.',
+  copyright = '© 2026 Varnivaa. All rights reserved.',
   social = DEFAULT_SOCIAL,
 }: FooterProps) {
   return (
     <footer>
       <div className="ft-grid">
         <div className="ft-brand">
-          <span className="logo">MAISON·V</span>
+          <span className="logo">Varnivaa</span>
           <p className="ft-tagline">
             &ldquo;Clothing that asks nothing of you, except that you wear it well.&rdquo;
           </p>

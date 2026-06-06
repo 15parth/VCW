@@ -29,7 +29,7 @@ export function Navbar() {
     <>
       <nav className={scrolled ? 'nav-scrolled' : ''}>
         <NavLink to="/" className="logo" end>
-          MAISON·V
+          Varnivaa
         </NavLink>
         <ul className="nav-links nav-links--desktop">
           {NAV_ITEMS.map(({ path, label }) => (

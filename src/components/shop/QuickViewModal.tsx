@@ -48,7 +48,7 @@ export function QuickViewModal() {
           {quickViewProduct.tag && <span className="qv-tag">{quickViewProduct.tag}</span>}
         </div>
         <div className="qv-content">
-          <p className="qv-eyebrow">Maison·V — Resort 2026</p>
+          <p className="qv-eyebrow">Varnivaa — Resort 2026</p>
           <h2>{quickViewProduct.name}</h2>
           <p className="qv-price">{quickViewProduct.price}</p>
           <p className="qv-copy">

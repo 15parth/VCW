@@ -35,7 +35,7 @@ export function MobileMenu({ open, onClose }: MobileMenuProps) {
         aria-label="Mobile navigation"
       >
         <div className="mobile-menu-head">
-          <span className="logo">MAISON·V</span>
+          <span className="logo">Varnivaa</span>
           <button type="button" className="mobile-menu-close" onClick={onClose} aria-label="Close menu">
             ×
           </button>
